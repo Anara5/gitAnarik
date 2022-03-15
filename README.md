@@ -1,8 +1,8 @@
 # Anara Zhunusova
 
-[photo](img/D_0209001_5x5.jpg)
+![photo](img/D_0209001_5x5.jpg)
 
-Hi! My name is Anara and I am 34 yo, currently staying in Stockholm. I am very active and cheerful person. Also I like reading sciences.
+Hi! My name is Anara and I am 34 yo, currently staying in Stockholm. I am very active and cheerful person. Also I like reading sciences and traveling.
 
 **Education:**
 * Teacher of German and English, Orenburg State Pedagogical University
