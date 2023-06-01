@@ -16,6 +16,7 @@ Hi! My name is Anara and I am 34 yo, currently staying in Stockholm. I am very a
 2. Web development: HTML, CSS, JavaScript, inimical apps, functional programming, security.
 3. Datology: algorithms, data structures, problem solving, code quality and structure.
 4. Agile and project methods: Scrum, team communication.
-5. Database development: MySQL, PostgreSQL, dala modelling.
+5. Database development: MySQL, PostgreSQL, data modelling.
 6. System development: Java EE, server, cloud service, back-end.
 7. Tests and security: TDD, Unit-tests, debugs.
+8. MOB-programming: work in developer team.
